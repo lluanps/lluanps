@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi I'm Luan Pinheiro 👋
+
+- 🌱 I’m currently learning Java Springboot and SQL
+- 💬 Ask me about tech, surfing
+- ⚡ Programming languages: Java, javascript
+
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanps&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanps&layout=compact)](https://github.com/lluanps/github-readme-stats)
+
+<hr>
+
+### Find me elsewhere 🌎
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/lluanps/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](lluanps@gmail.com)
+
+
 
 <!--
 **lluanps/lluanps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
