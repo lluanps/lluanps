@@ -1,6 +1,6 @@
 ### Hi, I'm Luan Pinheiro 👋
 
-- 🌱 I’m currently learning Java Springboot and SQL
+- 🌱 I’m currently learning Java Spring and SQL
 - 💬 Ask me about tech, surfing
 - ⚡ Programming languages: Java, javascript
 
