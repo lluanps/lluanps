@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java Spring
 - 💬 Ask me about tech, surfing
-- ⚡ Programming languages: Java(Spring), javascript
+- ⚡ Programming languages: Java, Javascript
 - 
 
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanps&show_icons=true&theme=radical)
