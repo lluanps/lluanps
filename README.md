@@ -1,6 +1,6 @@
 ### Hi, I'm Luan Pinheiro 👋
 
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning Java Spring and microservices
 - 💬 Ask me about tech, surfing
 - ⚡ Programming languages: Java, Javascript
 - 
