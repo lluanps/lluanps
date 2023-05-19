@@ -1,9 +1,8 @@
 ### Hi, I'm Luan Pinheiro 👋
 
-- 🌱 I’m currently learning Java Spring and microservices
+- 🌱 I’m currently learning Spring and Angular
 - 💬 Ask me about tech, surfing
-- ⚡ Programming languages: Java, Javascript
-- 
+- ⚡ Programming languages: Java, Javascript 
 
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanps&show_icons=true&theme=radical)
 
