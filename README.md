@@ -2,10 +2,11 @@
 
 - 🌱 I’m currently learning Spring and Angular
 - 💬 Ask me about tech, surfing
-- ⚡ Programming languages: Java, Javascript 
+- ⚡ Programming languages: Java, Javascript, TypeScript
 
+<!--
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanps&show_icons=true&theme=radical)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanps&layout=compact)](https://github.com/lluanps/github-readme-stats)
 
 <hr>
