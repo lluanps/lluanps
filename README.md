@@ -1,8 +1,8 @@
 ### Hi, I'm Luan Pinheiro 👋
 
-- 🌱 I’m currently learning Spring and Angular
+- 🌱 I’m currently learning Spring, .NET and Angular
 - 💬 Ask me about tech, surfing
-- ⚡ Programming languages: Java, Javascript, TypeScript
+- ⚡ Programming languages: Java, C#, Javascript, TypeScript
 
 <!--
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanps&show_icons=true&theme=radical)
