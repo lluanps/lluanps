@@ -1,6 +1,6 @@
 ### Hi, I'm Luan Pinheiro 👋
 
-- 🌱 I’m currently learning Spring, .NET and Angular
+- 🌱 I’m currently learning Spring, docker and Angular
 - 💬 Ask me about tech, surfing
 - ⚡ Programming languages: Java, C#, Javascript, TypeScript
 
